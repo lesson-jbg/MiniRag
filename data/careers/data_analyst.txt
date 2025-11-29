@@ -1,0 +1,2 @@
+A Data Analyst works with SQL, Python, Excel, dashboards, and data visualization.
+Skills: analytics, statistics, reporting, BI tools.
